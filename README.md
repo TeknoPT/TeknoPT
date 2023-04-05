@@ -7,7 +7,7 @@
 <!-- Top Skills -->
 <p align="center">
    <!-- <a href="https://skillicons.dev"></a> -->
-  <a href="https://github.com/AtosDev">
+  <a href="https://github.com/TeknoPT">
     <img src="https://skillicons.dev/icons?i=svelte,solidity,rust,tailwind,bootstrap,figma,html,css,js,ts,mysql,git,github,laravel,dotnet,docker,unity" />
   </a>
 </p>
