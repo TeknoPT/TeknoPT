@@ -12,12 +12,6 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=teknopt&theme=discord_old_blurple" alt="TeknoPT" height="150px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact&theme=discord_old_blurple" alt="TeknoPT" height="150px"/>
 </div>
- 
-<!-- Language's -->
-<div align="center">
- <h2> Most used Languages </h2>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact&theme=discord_old_blurple" alt="TeknoPT"/>
-</div>
 
 <!-- Top Skills -->
 <div align="center">
