@@ -1,4 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=teknopt&show_icons=true&theme=gitdimmed" alt="TeknoPT"/>
+<!-- Profile Stats -->
+<div align="center" >
+ <img src="https://github-readme-stats.vercel.app/api?username=teknopt&show_icons=true&theme=discord_old_blurple" alt="TeknoPT"/>
+</div>
 
 <div align="center" >
  <h2> Personal Stats </h2>
@@ -13,7 +16,7 @@
 <!-- Language's -->
 <div align="center">
  <h2> Most used Languages </h2>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact" alt="TeknoPT"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact&theme=discord_old_blurple" alt="TeknoPT"/>
 </div>
 
 <!-- Top Skills -->
