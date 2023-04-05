@@ -8,6 +8,7 @@
  
 <!-- Language's -->
 <div align="center">
+ <h2> Top Languages </h2>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact" alt="TeknoPT"/>
 </div>
 
