@@ -1,6 +1,8 @@
 ### Hi there 👋
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeknoPT&theme=discord_old_blurple&layout=compact&langs_count=8" alt="TeknoPT" height="150px"/>
-  
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=teknopt&show_icons=true&theme=transparent" alt="TeknoPT"/>
+</div>
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Language's -->
 
