@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h2> Personal Stats </h2>
-<div>
+<div align="center" >
+ <h2> Personal Stats </h2>
+
  <img src="https://github-readme-stats.vercel.app/api?username=teknopt&show_icons=true&theme=transparent" alt="TeknoPT"/>
 </div>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Language's -->
 
 <!-- Top Skills -->
