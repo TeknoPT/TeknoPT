@@ -8,9 +8,9 @@
  <img src="https://github-profile-trophy.vercel.app/?username=teknopt&margin-w=15&margin-h=15&theme=gitdimmed" alt="TeknoPT"/>
 </div>
 
-<div>
+<div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=teknopt&theme=discord_old_blurple" alt="TeknoPT" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeknoPT&theme=discord_old_blurple&layout=compact&langs_count=8" alt="TeknoPT" height="150px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact&theme=discord_old_blurple" alt="TeknoPT" height="150px"/>
 </div>
  
 <!-- Language's -->
