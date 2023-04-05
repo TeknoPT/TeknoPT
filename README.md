@@ -27,3 +27,22 @@
     <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java,rust,php,html,css,sass,svelte,angular,jquery,nodejs,express,laravel,dotnet,tailwind,bootstrap,mongodb,mysql,sqlite,git,github,visualstudio,vscode,figma,eclipse,powershell,linux,docker,unity,codepen,ps,py,svg,linkedin,stackoverflow,discord,kotlin,sql,godot,bash,arduino,postgres,androidstudio,mysql,cloudflare,githubactions,gradle,idea,ifps,md,raspberrypi,vercel,vite" />
   </a>
 </div>
+
+<!-- About myself -->
+<div>
+ 
+</div>
+
+<!-- Are you looking for ? -->
+<div>
+ <h2> Are you looking for ... </h2>
+ <div align="left" width="80%">
+    <ul>
+      <li>A Senior Backend / Game Developer focused on C# / Unity and +5 years of experience?</li>
+      <li>Assistance in developing various complex projects, including full-stack applications, games, web apps, decentralized applications (dApps), smart contracts, and more?</li>
+      <li>A fullstack developer that can do DevOps, maintain existing code base, automoate tests and help improve the deployment pipeline?</li>
+      <li>A software engineer who places emphasis on writing code that meets high standards of quality, documentation, cleanliness, and maintainability?</li>
+      <li>A credible, sincere, and proficient associate to accomplish your project while adhering to budget and deadline constraints?</li>
+    </ul>
+  </div>
+</div>
