@@ -22,6 +22,7 @@
 </div>
 
 <p align="center">
+ <h2> Everything... </h2>
   <a href="https://github.com/TeknoPT">
     <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java,rust,php,html,css,sass,svelte,angular,jquery,nodejs,express,laravel,dotnet,tailwind,bootstrap,mongodb,mysql,sqlite,git,github,visualstudio,vscode,figma,eclipse,powershell,linux,docker,unity,codepen,ps,py,svg,linkedin,stackoverflow,discord,kotlin,sql,godot,bash,arduino,postgres,androidstudio,mysql,cloudflare,githubactions,gradle,idea,ifps,md,raspberrypi,vercel,vite" />
   </a>
