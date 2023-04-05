@@ -21,6 +21,7 @@
   </a>
 </div>
 
+<!-- All the tools and languages-->
 <div align="center">
  <h2> Everything... </h2>
   <a href="https://github.com/TeknoPT">
@@ -30,7 +31,14 @@
 
 <!-- About myself -->
 <div>
- 
+ <h2> About myself </h2>
+ <div align="left" width="80%">
+    <ul>
+      <li>I am a full-stack, game, and blockchain engineer, boasting over 5 years of professional experience in both enterprise-level and startup ventures.</li>
+      <li>Particularly, I possess extensive expertise in blockchain, backend, game, and frontend technologies, having developed numerous decentralized applications (dApps) such as DEXTools, DAOs, NFT marketplaces, wallets, blockchain solutions, cross-platform mechanisms, OTC platforms, games, and more..</li>
+    <li>A key characteristic of mine is that I am a self-motivated and enthusiastic innovator with a penchant for engaging in creative endeavors.</li>
+    </ul>
+  </div>
 </div>
 
 <!-- Are you looking for ? -->
