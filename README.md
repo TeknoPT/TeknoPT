@@ -8,7 +8,7 @@
 <p align="center">
    <!-- <a href="https://skillicons.dev"></a> -->
   <a href="https://github.com/AtosDev">
-    <img src="https://skillicons.dev/icons?i=svelte,tomb,solidity,rust,tailwind,bootstrap,figma,html,css,js,ts,mysql,git,github,laravel,dotnet," />
+    <img src="https://skillicons.dev/icons?i=svelte,solidity,rust,tailwind,bootstrap,figma,html,css,js,ts,mysql,git,github,laravel,dotnet," />
   </a>
 </p>
 
