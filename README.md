@@ -7,6 +7,9 @@
 </div>
  
 <!-- Language's -->
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teknopt&langs_count=8&layout=compact" alt="TeknoPT"/>
+</div>
 
 <!-- Top Skills -->
 <p align="center">
